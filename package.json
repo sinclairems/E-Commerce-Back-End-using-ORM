@@ -11,11 +11,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
+    "url": "https://github.com/sinclairems/E-Commerce-Back-End-using-ORM"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "ErinMS",
+  "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.3"
   },

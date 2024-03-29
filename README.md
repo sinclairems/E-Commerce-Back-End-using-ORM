@@ -13,7 +13,7 @@ THERE IS A BUG IN CREATING THE TAGS
 I will look for solutions to these at a later time. 
 
 
-Here's what it looks like in the command line:
+Here's what it looks like in Insomnia:
 ![Product Screenshot](./images/productsScreenshot.png)
 
 ![Create Product Screenshot](./images/createProduct.png)
